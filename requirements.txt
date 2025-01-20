@@ -1,0 +1,4 @@
+pandas==1.5.3
+streamlit==1.18.1
+plotly==5.13.0
+sqlite3==2.6.0
